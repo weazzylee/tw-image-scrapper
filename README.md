@@ -2,8 +2,7 @@
 
 This script allows you to scrape images from your favorite tweets on Twitter and save them to a SQLite database file.  
 It will only scrape tweets that were posted after the last scraping date you specified in the configuration file, so you don't have to worry about scraping the same tweets multiple times. Optionally, you can also download the images to your computer.  
-See the [Configuration](#configuration) section for more information. It uses the Tweepy library to access the Twitter API.  
-It uses the [Tweepy](https://www.tweepy.org/) library to access the Twitter API.
+See the [Configuration](#configuration) section for more information. It uses the [Tweepy](https://www.tweepy.org/) library to access the Twitter API.
 
 ## Installation
 
